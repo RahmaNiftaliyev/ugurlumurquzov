@@ -30,7 +30,8 @@
 
 
 
-##UPS my github user activity 🚀
+## UPS my github user activity 🚀
+
 <br>
 
 ![Rahman Niftaliyev's](https://github-readme-stats.vercel.app/api?username=ugurlumurquzov&show_icons=true&theme=tokyonight)
