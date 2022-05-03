@@ -36,7 +36,7 @@
   </a>
   &emsp;
   <a href="https://www.php.net/">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=C#&logoColor=white"/>
+    <img alt="PHP" src="https://img.shields.io/badge/C#-%23777BB4.svg?logo=C#&logoColor=white"/>
   </a>
 </p>
 
